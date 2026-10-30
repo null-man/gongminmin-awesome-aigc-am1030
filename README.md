@@ -53,6 +53,8 @@ This category takes text as input.
 |-|-|-|
 | [DALL·E 2](https://openai.com/dall-e-2/) | 7-8 | [[API]](https://platform.openai.com/docs/guides/images/usage) [[Paper]](https://arxiv.org/abs/2204.06125) |
 | [MidJourney](https://www.midjourney.com) | 8-9 | |
+| [PromptImage](https://promptimage.cloud) | Free AI image & video studio with a prompt library (signup credits, multi-model). Freemium | Freemium |
+| [GrokVideo Studio](https://grokvideogenerator.dev) | Independent web app for text/image-to-video via Grok Imagine API (Free Trial, 20 credits). Not an official … | Freemium |
 | [Stable Diffusion](https://ommer-lab.com/research/latent-diffusion-models/) | 7-8 | [[Paper]](https://arxiv.org/abs/2112.10752) [[Code]](https://github.com/CompVis/stable-diffusion) |
 | [TEXTure](https://texturepaper.github.io/TEXTurePaper/) (Texture only) | 4-5 | [[Paper]](https://arxiv.org/pdf/2302.01721.pdf) [[Code]](https://github.com/TEXTurePaper/TEXTurePaper) [[Demo]](https://huggingface.co/spaces/TEXTurePaper/TEXTure) |
 
